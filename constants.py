@@ -1,4 +1,4 @@
-from opinion.tyle.types import IntegerPoint
+from .types import IntegerPoint
 
 F: bool = False
 T: bool = True
