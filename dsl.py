@@ -1,6 +1,6 @@
 import inspect
 
-from opinion.tyle.types import (
+from .types import (
     AbsolutelyAnything,
     AbsolutelyAnythingContainer,
     Anything,
